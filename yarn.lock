@@ -1426,10 +1426,10 @@
     "@monaco-editor/loader" "^1.3.2"
     prop-types "^15.7.2"
 
-"@payloadcms/plugin-cloud@^0.0.4":
-  version "0.0.4"
-  resolved "https://registry.npmjs.org/@payloadcms/plugin-cloud/-/plugin-cloud-0.0.4.tgz#8ece1149ce329ea172195f68e745202b541e701f"
-  integrity sha512-dMX/4FMSlBt0eGQDqNW6mbmS+1GFHZWr+NAeT0NNipOQ1nYjkRA0sjOsGs87+nVKZDTw5SvTmlMzImDZFL+Q1w==
+"@payloadcms/plugin-cloud@^0.0.5":
+  version "0.0.5"
+  resolved "https://registry.npmjs.org/@payloadcms/plugin-cloud/-/plugin-cloud-0.0.5.tgz#2d5702103f1fc038c5dc95780c42916f9fbe8684"
+  integrity sha512-AjJk+o4s/HWkKRSYxFCpiQLqbmchVQwX6SZZhxBFgaRjp2U1HG7di3wwvwWZwtJLDHTLzGAk4gakeecpW2bYVw==
   dependencies:
     "@aws-sdk/client-cognito-identity" "^3.289.0"
     "@aws-sdk/client-s3" "^3.142.0"
