@@ -4,7 +4,6 @@ import Users from './collections/Users';
 import { payloadCloud } from '@payloadcms/plugin-cloud';
 
 export default buildConfig({
-  serverURL: 'http://localhost:3000',
   admin: {
     user: Users.slug,
   },
